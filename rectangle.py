@@ -1,5 +1,5 @@
 def perimeter(x, y):
-    return x + y
+    return 2*(x + y)
 
 
 def area(x, y):
