@@ -3,4 +3,8 @@ def perimeter(x):
 
 
 def area(x):
-    return x**2
+    return x ** 2
+
+
+def diagonal_len(x):
+    return x ** 0.5
