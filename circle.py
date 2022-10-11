@@ -1,4 +1,5 @@
 from math import pi
+# very smart program
 
 
 def peremiter(r):
