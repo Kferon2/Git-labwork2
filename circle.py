@@ -2,7 +2,7 @@ from math import pi
 # very smart program
 
 
-def peremiter(r):
+def perimeter(r):
     return 2 * pi * r
 
 
