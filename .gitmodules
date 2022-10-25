@@ -4,3 +4,6 @@
 [submodule "shapely"]
 	path = shapely
 	url = https://github.com/shapely/shapely
+[submodule "happly"]
+	path = happly
+	url = https://github.com/nmwsharp/happly.git
